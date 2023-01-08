@@ -6,7 +6,7 @@ p{
     /*font-weight: bold;*/
     line-height: 2;
     font-size: 80px;
-    transform: translate(125px, 80px) rotate(45deg) skew(70deg); 
+    transform: translate(125px, 80px) rotate(10deg) skew(10deg); 
 margin: 200px 200px 200px 200px;
 
 
